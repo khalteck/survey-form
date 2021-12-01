@@ -4,7 +4,7 @@ body {
     background-image: url('https://i.pinimg.com/originals/7f/e7/74/7fe774bbacce09f00cb5b2e3cbc48db3.png');
     background-attachment: fixed;
     background-repeat: no-repeat;
-    backgriund-size: contain;
+    background-size: cover;
     padding-top: 97.8px;
     font-family: 'Outfit', sans-serif;
 }
@@ -32,7 +32,7 @@ header {
     font-weight: lighter;
 }
 .box {
-    width: 55vw;
+    width: 755px;
     height: 1447.44px;
     background-color: #292929;
     margin: auto;
@@ -140,7 +140,7 @@ h4 {
     font-weight: 300;
 }
 .field-style {
-    width: 48.6vw;
+    width: 664px;
     height: 32.6px;
     font-size: 16.3px;
     position: relative;
@@ -152,7 +152,7 @@ h4 {
     top: 36.27px;
 }
 .submit-button {
-    width: 48.6vw;
+    width: 664px;
     height: 52.16px;
     font-size: 16.3px;
     border-radius: 6.52px;
@@ -183,7 +183,7 @@ h4 {
     font-size: 12.388px;
 }
 .suggest {
-    width: 48.6vw;
+    width: 664px;
     height: 163px;
     font-size: 16.3px;
     border-radius: 6.52px;
@@ -199,7 +199,7 @@ h4 {
 #role {
     position: relative;
     top: 111.668px;
-    width: 48.8vw;
+    width: 668px;
     height: 37.816px;
 }
 .sel-label {
@@ -210,7 +210,7 @@ h4 {
     top: 105.148px;
 }
 #number {
-    width: 48.6vw;
+    width: 668px;
     height: 32.6px;
     font-size: 16.3px;
     position: relative;
@@ -227,7 +227,7 @@ h4 {
 #favorite-feature {
     position: relative;
     top: 170.348px;
-    width: 48.8vw;
+    width: 668;
     height: 37.815px;
 }
 .fave-label {
