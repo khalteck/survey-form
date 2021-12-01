@@ -4,12 +4,12 @@ body {
     background-image: url('https://i.pinimg.com/originals/7f/e7/74/7fe774bbacce09f00cb5b2e3cbc48db3.png');
     background-attachment: fixed;
     background-repeat: no-repeat;
-    padding-top: 15vh;
+    padding-top: 97.8px;
     font-family: 'Outfit', sans-serif;
 }
 header {
     width: 100%;
-    height: 11vh;
+    height: 71.72px;
     position: fixed;
     top: 0;
     left: 0;
@@ -19,24 +19,24 @@ header {
 #title {
     text-align: center;
     color: #f0f8ff;
-    font-size: 6vh;
+    font-size: 39.12px;
     font-family: 'Outfit', sans-serif;
 }
 #description {
     text-align: center;
     color: #f0f8ff;
-    font-size: 3vh;
-    margin-top: -2vh;
+    font-size: 19.56px;
+    margin-top: -13.04px;
     font-family: 'Outfit', sans-serif;
     font-weight: lighter;
 }
 .box {
     width: 55vw;
-    height: 222vh;
+    height: 1447.44px;
     background-color: #292929;
     margin: auto;
-    border-radius: 1vh;
-    margin-top: 6vh;
+    border-radius: 6.52px;
+    margin-top: 39.12px;
     opacity: 0.9;
     z-index: 1;
 }
@@ -46,20 +46,20 @@ a {
 .logo {
     display: flex;
     position: relative;
-    top: 1.808vh;
-    left: 2.78vh;
+    top: 11.78816px;
+    left: 18.1256px;
 }
 #logo-part {
     position: relative;
-    left: 0.973vh;
-    top: -3vh;
+    left: 6.344px;
+    top: -19.56px;
 }
 .fcc {
     color: #f0f8ff;
 }
 .link-logocolor {
     color: #f0f8ff;
-    font-size: 2.78vh;
+    font-size: 18.1256px;
     font-weight: 600;
 }
 .follow {
@@ -67,45 +67,45 @@ a {
     background-color: #00ffff;
     border-radius: 5%;
     position: relative;
-    left: 0.695vh;
-    height: 2.225vh;
-    font-size: 1.808vh;
+    left: 4.5314px;
+    height: 14.507px;
+    font-size: 11.78816px;
     font-weight: 800;
 }
 .codepen-logo {
-    width: 4.868vh;
-    height: 4.172vh;
+    width: 31.73936px;
+    height: 27.201px;
     position: relative;
-    top: 0.391vh;
+    top: 2.549px;
 }
 footer {
     text-align: center;
-    height: 16.69vh;
-    margin-top: 15vh;
+    height: 108.819px;
+    margin-top: 97.8px;
 }
 h4 {
-    font-size: 2.782vh;
-    margin-bottom: -1.113vh;
+    font-size: 18.13864px;
+    margin-bottom: -7.25676px;
     color: #f0f8ff;
 }
 .footy {
-    padding: 0vh 4.172vh 0vh 4.172vh;
+    padding: 0px 27.2px 0px 27.2px;
     color: #00ffff;
 }
 #portfolio:hover {
-    font-size: 2.9vh;
+    font-size: 18.908px;
 }
 #github:hover {
-    font-size: 2.9vh;
+    font-size: 18.908px;
 }
 #twitter:hover {
-    font-size: 2.9vh;
+    font-size: 18.908px;
 }
 #footy-email:hover {
-    font-size: 2.9vh;
+    font-size: 18.908px;
 }
 .copy {
-    font-size: 1.808vh;
+    font-size: 11.78816px;
     color: #f0f8ff;
 }
 .opt {
@@ -116,123 +116,123 @@ h4 {
     right: 23px;
     bottom: 63px;
     font-weight: 520;
-    font-size: 2.225vh;
+    font-size: 14.507px;
 }
 .search-icon {
-    width: 3vh;
-    height: 3vh;
+    width: 19.56px;
+    height: 19.56px;
     position: relative;
-    top: -1vh;
+    top: -6.52px;
 }
 .sign-in {
     color: #f0f8ff;
     padding-right: 4vw;
     position: relative;
-    bottom: 1vh;
+    bottom: 6.52px;
 }
 #survey-form {
-    padding: 5.3vh 3.2vw;
+    padding: 34.556px 3.2vw;
 }
 .form-label {
-    font-size: 3vh;
+    font-size: 19.56px;
     color: #f0f8ff;
     font-weight: 300;
 }
 .field-style {
     width: 48.6vw;
-    height: 5vh;
-    font-size: 2.5vh;
+    height: 32.6px;
+    font-size: 16.3px;
     position: relative;
     top: 7.5px;
-    border-radius: 1vh;
+    border-radius: 6.52px;
 }
 .each-label-field {
     position: relative;
-    top: 5.563vh;
+    top: 36.27px;
 }
 .submit-button {
     width: 48.6vw;
-    height: 8vh;
-    font-size: 2.5vh;
-    border-radius: 1vh;
+    height: 52.16px;
+    font-size: 16.3px;
+    border-radius: 6.52px;
     background-color: #00ffff;
     color: #000000;
     position: relative;
-    top: 41.127vh;
+    top: 268.148px;
 }
 .recomm {
     color: #f0f8ff;
-    font-size: 3vh;
+    font-size: 19.56px;
     font-weight: 300;
     display: grid;
-    line-height: 4.6vh;
+    line-height: 30px;
     position: relative;
-    top: 21.127vh;
+    top: 137.74804px;
 }
 .improve-checkbox {
     color: #f0f8ff;
-    font-size: 3vh;
+    font-size: 19.56px;
     font-weight: 300;
     display: grid;
-    line-height: 4.6vh;
+    line-height: 30px;
     position: relative;
-    top: 31.127vh;
+    top: 202.948px;
 }
 .check-all {
-    font-size: 1.9vh;
+    font-size: 12.388px;
 }
 .suggest {
     width: 48.6vw;
-    height: 25vh;
-    font-size: 2.5vh;
-    border-radius: 1vh;
+    height: 163px;
+    font-size: 16.3px;
+    border-radius: 6.52px;
 }
 .tell-us-more {
-    font-size: 3vh;
+    font-size: 19.56px;
     color: #f0f8ff;
     font-weight: 300;
-    line-height: 5.6vh;
+    line-height: 36.512px;
     position: relative;
-    top: 36.127vh;
+    top: 235.548px;
 }
 #role {
     position: relative;
-    top: 17.127vh;
+    top: 111.668px;
     width: 48.8vw;
-    height: 5.8vh;
+    height: 37.816px;
 }
 .sel-label {
-    font-size: 3vh;
+    font-size: 19.56px;
     color: #f0f8ff;
     font-weight: 300;
     position: relative;
-    top: 16.127vh;
+    top: 105.148px;
 }
 #number {
     width: 48.6vw;
-    height: 5vh;
-    font-size: 2.5vh;
+    height: 32.6px;
+    font-size: 16.3px;
     position: relative;
-    top: 12.127vh;
-    border-radius: 1vh;
+    top: 79.068px;
+    border-radius: 6.52px;
 }
 .number-label {
-    font-size: 3vh;
+    font-size: 19.56px;
     color: #f0f8ff;
     font-weight: 300;
     position: relative;
-    top: 11.127vh;
+    top: 72.548px;
 }
 #favorite-feature {
     position: relative;
-    top: 26.127vh;
+    top: 170.348px;
     width: 48.8vw;
-    height: 5.8vh;
+    height: 37.815px;
 }
 .fave-label {
-    font-size: 3vh;
+    font-size: 19.56px;
     color: #f0f8ff;
     font-weight: 300;
     position: relative;
-    top: 25.127vh;
+    top: 163.828px;
 }
