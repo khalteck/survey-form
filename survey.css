@@ -210,7 +210,7 @@ h4 {
     top: 105.148px;
 }
 #number {
-    width: 668px;
+    width: 664px;
     height: 32.6px;
     font-size: 16.3px;
     position: relative;
@@ -227,7 +227,7 @@ h4 {
 #favorite-feature {
     position: relative;
     top: 170.348px;
-    width: 668;
+    width: 671px;
     height: 37.815px;
 }
 .fave-label {
@@ -237,3 +237,4 @@ h4 {
     position: relative;
     top: 163.828px;
 }
+ 
